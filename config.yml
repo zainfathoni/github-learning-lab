@@ -4,6 +4,7 @@ description: GitHub Learning Lab excercise
 template:
   repo: github-learning-lab-template
   name: github-learning-lab
+  description: G
 before:
   - type: createIssue
     title: Welcome!
